@@ -8,5 +8,6 @@ int main()
 	int age = 24;
 	cout << "My name is: " << Myname << endl;
 	cout << "I'm " << age <<" years old" << endl;
-	cout << "Nice to meet you!";
+	cout << "Nice to meet you!" << endl;
+	cout << "Hello World!";
 }
