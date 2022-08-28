@@ -10,5 +10,6 @@ int main()
 	cout << "I'm " << age <<" years old" << endl;
 	cout << "Nice to meet you!" << endl;
 	cout << "Hello World!";
-	cout << "The first try to new branch!";
+	cout << "The first  to try new branch!";
+	cout << "the decond to try new branch";
 }
